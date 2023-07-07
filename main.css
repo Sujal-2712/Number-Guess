@@ -1,0 +1,8 @@
+.main {
+  -fx-background-color: lightskyblue;
+}
+.btn {
+  -fx-background-color: #465372;
+  -fx-font-weight: bold;
+  -fx-cursor: hand;
+}
